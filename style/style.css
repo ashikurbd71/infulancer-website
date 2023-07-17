@@ -225,4 +225,19 @@ margin-bottom: 20px;
 }
 
 
+/* footer section */
+
+.footer-section{
+    max-width: 1400px;
+    background-color: #0A0826;
+    height: 250px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-div h3{
+    text-align: center;
+}
 
