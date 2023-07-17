@@ -43,15 +43,53 @@
 .banner-img img{
     width: 300px;
 }
-/* end header section */
+
 .discription{
     margin-top: 20px;
     text-align: center;
     margin-bottom: 20px;
 }
 
+.sponser-img{
+    
+    padding-top: 80px;
+    flex-wrap: wrap;
+    border: none;
+    margin: 0 auto;
+    padding-bottom: 80px;
+}
+
+.carft{
+    grid-template-columns: 1fr;
+}
+
+/* end header section */
+
+/* sponser section  */
+
+
+.carf-1{
+ 
+padding: 5px;
+
+}
+
+.popular-section >h2{
+    margin-top: 100px;
+}
+
+.carf-1 img{
+    width: 90%;
+
   }
 
+  .popular-section{
+   
+ 
+    margin: 20px;
+  
+}
+}
 
   /* tablate responsive */
 
@@ -93,6 +131,12 @@
          
       }
 
+   
+      .sponser-img{
+        flex-wrap: wrap;
+        border: none;
+        margin: 0 auto;
+    }
 
         /* end header section */
           }
