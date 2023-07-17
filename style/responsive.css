@@ -1,0 +1,43 @@
+
+
+/* mobile respnsive */
+
+@media screen and (max-width: 768px) {
+.nav-ber{
+    flex-direction: column;
+    margin: 20px;
+}
+
+.nav-ber h2{
+    margin: 10px;
+}
+
+.nav-links ul{
+    display: none;
+}
+  }
+
+
+  /* tablate responsive */
+
+  @media screen and (min-width: 768px) and (max-width: 1024px) {
+         .nav-ber{
+            flex-direction: column;
+            margin: 20px;
+        }
+        
+        .nav-ber h2{
+            margin: 10px;
+            font-size: 35px;
+        }
+        
+        .nav-links ul{
+            display: block;
+      
+        }
+
+        .nav-links ul li{
+            margin-bottom: 10px;
+        }
+          }
+ 
