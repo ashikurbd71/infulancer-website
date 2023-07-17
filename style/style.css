@@ -137,6 +137,7 @@ font-weight: 600;
 
 .carf-1 img{
      
+
     width:90%;
     display: block;
     margin: 0 auto;
@@ -144,6 +145,8 @@ font-weight: 600;
 }
 
 .carf-1{
+
+    width: 200px;
     border-radius: 5px;
     background: #FFF;
     box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
@@ -155,7 +158,7 @@ font-weight: 600;
     color:  #18191F;
 font-size: 18px;;
 font-weight: 500;
-margin-left: 5px;
+margin-left: 8px;
 margin-top: 5px;
 margin-bottom: 5px;
 
@@ -163,7 +166,7 @@ margin-bottom: 5px;
 
 .carf-1 h3{
 color: rgba(0, 0, 0, 0.87);
-margin-left: 5px;
+margin-left: 8px;
 font-size: 17px;
 font-weight: 400;
 line-height: 150%;
@@ -171,7 +174,7 @@ line-height: 150%;
 
 .carf-1 p{
     color: #787885;
-margin-top: 5px;
+    margin-left: 8px;
 font-size: 14px;
 
 font-weight: 700;
