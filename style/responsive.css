@@ -90,6 +90,26 @@ width: 100%;
     margin: 20px;
   
 }
+
+.feature-section{
+    
+    flex-direction: column;
+    margin: 20px;
+}
+
+.feature-img img{
+    margin-top: 80px;
+    width: 100%;
+ 
+}
+
+.feature-text{
+    text-align: center;
+}
+
+.feature-text h3{
+    font-size: 25px;
+}
 }
 
   /* tablate responsive */
@@ -139,6 +159,53 @@ width: 100%;
         margin: 0 auto;
     }
 
+    .carft{
+        grid-template-columns: repeat(3,1fr);
+       
+    }
+
+    .carf-1 img{
+     
+
+        width:100%;
+      
+       
+    }
+
+    .popular-section{
+
+      margin: 15px;
+      
+    }
+
+    .carf-1{
+ 
+        padding: 5px;
+        
+        
+        }
+
+        
+
+        .feature-section{
+    
+            flex-direction: column;
+            margin: 20px;
+        }
+        
+        .feature-img img{
+            margin-top: 80px;
+            width: 100%;
+         
+        }
+        
+        .feature-text{
+            text-align: center;
+        }
+        
+        .feature-text h3{
+            font-size: 25px;
+        }
         /* end header section */
           }
  
