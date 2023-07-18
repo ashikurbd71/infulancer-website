@@ -235,9 +235,20 @@ margin-bottom: 20px;
     color: white;
     justify-content: center;
     align-items: center;
+    
 }
 
 .footer-div h3{
     text-align: center;
 }
 
+.footer-links{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-links a{
+    font-size:25px;
+}

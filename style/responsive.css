@@ -109,7 +109,15 @@ width: 100%;
 
 .feature-text h3{
     font-size: 25px;
+
+
 }
+
+.footer-section{
+    margin-top: 100px;
+    height: 250px;
+}
+
 }
 
   /* tablate responsive */
